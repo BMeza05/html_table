@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    width: 450px;
+    border: 1px solid gray;
+}
+.title{
+    color: rgb(27, 27, 109);
+    border: 1px solid gray;
+    width: 100%;
+}
+.first_name{
+    padding-right: 1px;
+}
+.last_name{
+    padding-right: 1px;
+}
+.text{
+    border: 1px solid gray;
+    width: 100%;
+}
